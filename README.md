@@ -1,6 +1,6 @@
 # Interpretable Monocular Depth Estimation
 
-This project, "Neuron Selectivity for Efficient Monocular Depth Estimation," investigates the impact of neuron selectivity on lightweight monocular depth estimation (MDE) models. Our goal is to explore if this interpretability strategy can also be effective on effecient MDE network as it has been for deep MDE network.
+The project, "Neuron Selectivity for Efficient Monocular Depth Estimation," investigates the impact of neuron selectivity on lightweight monocular depth estimation (MDE) models. Our goal is to explore if this interpretability strategy can also be effective on effecient MDE network as it has been for deep MDE network.
 
 ## Dataset
 
@@ -39,7 +39,7 @@ For evaluation, you can modify:
 
 * **Kaggle Notebook:** [https://www.kaggle.com/code/technahuynh/interpretable-mde](https://www.kaggle.com/code/technahuynh/interpretable-mde)
 
-    * **Note:** Previous versions of the notebook contain the best-performing models and performance plots from our attempts.
+Note: Previous versions of the notebook contain the best-performing models and performance plots from our attempts.
 
 ## References
 
