@@ -7,7 +7,7 @@ The project, "Neuron Selectivity for Efficient Monocular Depth Estimation," inve
 We use the **NYU Depth V2 dataset**, a collection of indoor scenes recorded by the RGB and the Depth cameras.
 
 * **Dataset Link:** [https://www.kaggle.com/datasets/soumikrakshit/nyu-depth-v2](https://www.kaggle.com/datasets/soumikrakshit/nyu-depth-v2)
-* **Note:** The dataset is directly loaded within our notebook on Kaggle.
+Note: The dataset is directly loaded within our notebook on Kaggle.
 
 ## Code Notebook
 
@@ -38,7 +38,6 @@ For evaluation, you can modify:
 ### Kaggle Notebook Link
 
 * **Kaggle Notebook:** [https://www.kaggle.com/code/technahuynh/interpretable-mde](https://www.kaggle.com/code/technahuynh/interpretable-mde)
-
 Note: Previous versions of the notebook contain the best-performing models and performance plots from our attempts.
 
 ## References
