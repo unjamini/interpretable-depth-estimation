@@ -1,13 +1,13 @@
 # Interpretable Monocular Depth Estimation
 
-The project, "Neuron Selectivity for Efficient Monocular Depth Estimation," investigates the impact of neuron selectivity on lightweight monocular depth estimation (MDE) models. Our goal is to explore if this interpretability strategy can also be effective on effecient MDE network as it has been for deep MDE network.
+The project, "Neuron Selectivity for Efficient Monocular Depth Estimation," investigates the impact of neuron selectivity on lightweight monocular depth estimation (MDE) models. Our goal is to explore whether this interpretability strategy can also be effective on an efficient MDE network, as it has been for the deep MDE networks.
 
 ## Dataset
 
 We use the **NYU Depth V2 dataset**, a collection of indoor scenes recorded by the RGB and the Depth cameras.
 
 * **Dataset Link:** [https://www.kaggle.com/datasets/soumikrakshit/nyu-depth-v2](https://www.kaggle.com/datasets/soumikrakshit/nyu-depth-v2)
-* 
+  
 Note: The dataset is directly loaded within our notebook on Kaggle.
 
 ## Code Notebook
